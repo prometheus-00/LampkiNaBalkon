@@ -1,5 +1,11 @@
 #!/usr/bin/env bash
 
+
+#sudo apt update
+#sudo apt install -y pkg-config libssl-dev
+#sudo apt install cargo
+#cargo install websocat
+
 set -euo pipefail
 
 # Adres urządzenia McLighting
